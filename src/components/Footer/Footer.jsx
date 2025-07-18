@@ -14,7 +14,7 @@ const Footer = () => {
     <footer className="text-white py-8 px-[12vw] md:px-[7vw] lg:px-[20vw]">
       <div className="container mx-auto text-center">
         {/* Name / Logo */}
-        <h2 className="text-xl font-semibold text-purple-500">Tarun Kaushik</h2>
+        <h2 className="text-xl font-semibold text-purple-500">Roshan Patel</h2>
 
         {/* Navigation Links - Responsive */}
         <nav className="flex flex-wrap justify-center space-x-4 sm:space-x-6 mt-4">
@@ -59,7 +59,7 @@ const Footer = () => {
 
         {/* Copyright Text */}
         <p className="text-sm text-gray-400 mt-6">
-          © 2025 Tarun Kaushik. All rights reserved.
+          © 2025 Roshan Patel. All rights reserved.
         </p>
       </div>
     </footer>
