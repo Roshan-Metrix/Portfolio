@@ -50,5 +50,5 @@ npm run build
 
 ## 🌟 Credits
 
-This project was created with ❤️ by [Roshan Patel](https://roshan-metrix.vercel.app/).
+This project was created with ❤️ by [Roshan Patel](https://vercel.com/metrix-roshan-projects).
 If you like it, feel free to ⭐ this repository and share!
